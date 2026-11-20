@@ -1,0 +1,13 @@
+# Visual Studio 暫存與編譯產生的檔案
+.vs/
+bin/
+obj/
+*.user
+*.suo
+packages/
+
+# 程式執行時產生的紀錄
+轉換紀錄*.txt
+
+# 發布用的壓縮檔（上傳到 GitHub Release，不放進 git）
+release/*.zip
